@@ -7,12 +7,14 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 40pt;
     color: whitesmoke;
+    margin: 10px 50px 0px 50px;
     text-shadow: 8px 2px 2px #5F0027
 }
 h2 {
     font-family: 'Times New Roman', Times, serif ;
     font-size: 30pt;
     color: whitesmoke;
+    margin: 10px 50px 0px 50px;
     text-shadow: 8px 2px 2px #5F0027
 }
 h3 {
@@ -25,11 +27,13 @@ h4{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
     color: whitesmoke;
+    margin: 50px 50px 0px 50px;
 }
 h5{
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
     color: whitesmoke;
+    margin: 0px 20px 0px 30px;
 }
 p {
     color: whitesmoke;
@@ -37,7 +41,7 @@ p {
     text-align: justify;
     text-indent: 30px;
     font-size: 18px;
-    margin: 0px 850px 0px 15px;
+    margin: 30px 850px 0px 15px;
 }
 /* Estilo Imagens*/
 
