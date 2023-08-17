@@ -22,7 +22,6 @@ h3 {
 	font-size: 30pt;
 	color: whitesmoke;
 	text-shadow: 8px 2px 2px #5f0027;
-	margin: 50px 50px 70px 50px;
 }
 h4 {
 	font-family: 'Times New Roman', Times, serif;
@@ -157,7 +156,7 @@ figure.foto-legenda-cassie:hover figcaption {
 }
 #imgpos-sunny2 {
 	position: absolute;
-	left: 850px;
+	left: 851px;
 	top: 250px;
 }
 

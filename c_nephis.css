@@ -22,7 +22,6 @@ h3 {
 	font-size: 30pt;
 	color: whitesmoke;
 	text-shadow: 8px 2px 2px #5f0027;
-	margin: 50px 50px 70px 50px;
 }
 h4 {
 	font-family: 'Times New Roman', Times, serif;
@@ -142,32 +141,28 @@ figure.foto-legenda-cassie:hover figcaption {
 	left: 950px;
 	top: 0px;
 }
-#tablepos {
-	position: absolute;
-	left: 205px;
+#tablepos{
 	top: 335px;
-	color: whitesmoke;
+    left: 225px;
+    color: whitesmoke;
 }
-/* Página Sunny */
-
-#imgpos-sunny1 {
-	position: absolute;
-	left: 1100px;
+#imgpos-nephis1 {
+position: absolute;
+	left: 1180px;
 	top: 250px;
 }
-#imgpos-sunny2 {
-	position: absolute;
-	left: 850px;
-	top: 250px;
+#imgpos-nephis2 {
+	position: relative;
+	left: 749px;
+	top: 250px ;
 }
-
-.link {
+.link{
 	color: whitesmoke;
 	text-decoration: none;
 }
-#tablepos2{
+#tablepos2 {
 	position: relative;
-	left: 15%;
-	top: 60%;
+	left: 20%;
+	top: 72%;
 	color: whitesmoke
 }
